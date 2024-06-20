@@ -35,11 +35,11 @@ I am a graduate of the **Fullstack Bootcamp** at Factoría F5.
 ### Other instruments
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40" style="background-color: #f0f0f0;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" **alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40" style="background-color: #f0f0f0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" **alt="GitHub Actions" width="40" height="40" style="background-color: #f0f0f0;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40" style="background-color: #f0f0f0;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-plain-wordmark.svg" title="Pnpm" **alt="Pnpm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-plain-wordmark.svg" title="Pnpm" **alt="Pnpm" width="40" height="40" style="background-color: #f0f0f0;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
