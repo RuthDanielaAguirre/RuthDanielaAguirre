@@ -1,6 +1,6 @@
 ## 👋 Hello there!
-Welcome to my GitHub profile — I'm so glad you stopped by.
-This isn't just a space for code — it's a space for stories, for growing, for building things that feel good to use. **I hope you find something here that resonates with you**.
+Welcome to my GitHub profile — I'm so glad you stopped by.<br>
+This isn't just a space for code — it's a space for stories, for growing, for building things that feel good to use. <br>**I hope you find something here that resonates with you**.
 
 ---
 ### 💫 About Me
@@ -13,11 +13,9 @@ What defines **me** most **as a developer** is the way I learn: I come from a ba
 
 I believe in **good practice, clean architecture,** and in the value of emotional intelligence in teamwork. I naturally foster spaces where my teammates feel heard and safe to contribute. I care about good **communication** as much as I care about elegant code.
 
-🧠 **I’m passionate about solving problems**, especially when I get to learn something new in the process.
-🎨 I enjoy building interfaces that make people feel something — clarity, calm, empowerment.
-🎧 Outside of tech, **I love cinema, storytelling, jazz**, and the small rituals of daily life.
-
-
+🧠 **I’m passionate about solving problems**, especially when I get to learn something new in the process.<br>
+🎨 I enjoy building interfaces that make people feel something — clarity, calm, empowerment.<br>
+🎧 Outside of tech, **I love cinema, storytelling, jazz**, and the small rituals of daily life.<br>
 🌍 I speak **Spanish** (native), **English** (C1), **Catalan** (B1), and a bit of **French**. I’m also a graduate of the **Fullstack Bootcamp** at Factoría F5 and the **AWS re/Start Cloud Bootcamp**.
 
 ---
@@ -38,11 +36,13 @@ The application combines **Python**, **MySQL**, and **CustomTkinter**, allowing 
 
 - 👤 User registration & login system
 - ✅ Task creation, editing & deletion
-- 🗣 Voice input for task management
-@@ -52,78 +46,64 @@ It’s a team-led effort where we also learn about modular packaging, event-driv
+- 🗣 Voice input for task management<br>
+- It’s a team-led effort where we also learn about modular packaging, event-driv
 ## 💻 Tech Stack
 
 ### 👩‍💻 Programming Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
@@ -66,6 +66,13 @@ The application combines **Python**, **MySQL**, and **CustomTkinter**, allowing 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 
 
+### 📊 Data Exploration & Utilities
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+
 ### 🎨 UI & Design
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 ![ChakraUI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) 
@@ -75,6 +82,8 @@ The application combines **Python**, **MySQL**, and **CustomTkinter**, allowing 
 
 
 ### 🧰 Tools & Platforms
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
+![PNPM](https://img.shields.io/badge/PNPM-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=plastic&logo=pycharm&logoColor=white) 
@@ -85,6 +94,8 @@ The application combines **Python**, **MySQL**, and **CustomTkinter**, allowing 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=plastic&logo=slack&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
 
